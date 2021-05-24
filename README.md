@@ -1,2 +1,2 @@
 # Description of my Graduation Project
-Used for storing the codes that can be available in the future.
+Used for storing the codes that could be available in the future.
