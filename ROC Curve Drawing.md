@@ -1,6 +1,8 @@
 # ddd
-===
 
+
+
+```python
 import numpy as np
 from sklearn import metrics
 y = np.array([1, 1, 2, 2])
@@ -22,4 +24,4 @@ plt.ylabel('True Positive Rate')
 plt.title('Receiver operating characteristic example')
 plt.legend(loc="lower right")
 plt.show()
-
+```
